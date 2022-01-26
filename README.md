@@ -3,7 +3,8 @@
 YouTube Video Tutorial Link : https://youtu.be/EfXz4C5cSVI
 
 
-![Responsive Thumbnail](https://user-images.githubusercontent.com/55704859/151195427-24c5f9cb-38aa-4e4f-a001-7735e0ff7295.png)
+![Thumbnail](https://user-images.githubusercontent.com/55704859/151199355-db93a22d-2dd7-475e-8967-0468ab1e5860.png)
+
 
 
 Icon Credits : https://icons8.com/icons
