@@ -1,6 +1,6 @@
 # WPF - Responsive UI Design
 
-<b>GitHub Account</b> : https://github.com/CSharpDesignPro
+
 
 YouTube Video Tutorial Link : https://youtu.be/EfXz4C5cSVI
 
@@ -10,3 +10,5 @@ YouTube Video Tutorial Link : https://youtu.be/EfXz4C5cSVI
 
 
 Icon Credits : https://icons8.com/icons
+
+<b>GitHub Account</b> : https://github.com/CSharpDesignPro
